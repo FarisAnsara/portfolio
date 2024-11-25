@@ -53,7 +53,7 @@ const EducationBachelors = ({isHome = true}) => {
       )}
 
       {isHome ? (
-      <Subtitle className='text-xl font-semibold pt-8 text-center not-italic' subtitle='Relevant Courses'/>
+      <Subtitle className='text-xl font-semibold pt-8 text-center not-italic' subtitle='Relevant Modules'/>
       ):
       (<></>)}
 

@@ -32,9 +32,9 @@ const router = createBrowserRouter(
       <Route path='*' element={<NotFoundPage />} />
     </Route>
     </>
-    { basename: '/portfolio' }
-  )
-)
+  ), 
+  { basename: '/portfolio' } // Add the basename here
+);
 
 const App = () => {
   return (
@@ -42,4 +42,4 @@ const App = () => {
   )
 }
 
-export default App
+export default App;

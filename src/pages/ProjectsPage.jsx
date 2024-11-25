@@ -21,7 +21,7 @@ const ProjectsPage = ({ isHome = false }) => {
             url_target='Optimal-Pathfinding-Micromouse'
           />
           <ProjectCard 
-            title="Tesco Data Analysis" 
+            title="Analysis of Tesco Purchase Data with Obesity and Diabetes in the Greater London Area" 
             image={TescoDataAnalysisImage} 
             url_target='Applied_Data_Science/blob/main/Semester%202/tesco_data_analysis.ipynb'
           />
