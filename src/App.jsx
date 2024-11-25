@@ -21,7 +21,7 @@ import SkillsPage from './pages/SkillsPage';
 const router = createBrowserRouter(
   createRoutesFromElements(
     <>
-    <Route path='/' element={<MainPageLayout />}>
+    <Route path='/portfolio' element={<MainPageLayout />}>
       <Route index element={<HomePage />} />
       <Route path='about' element={<AboutPage />} />
       <Route path='education' element={<EducationPage />} />
