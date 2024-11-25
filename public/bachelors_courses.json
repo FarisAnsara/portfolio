@@ -1,0 +1,152 @@
+{
+    "bachelors_courses":
+    [
+        {
+            "id": "ESc1",
+            "year": 1,
+            "title": "Engineering Science 1: Thermofluids",
+            "description": "This module covered the fundamental principles of fluid mechanics and thermodynamics essential for engineering applications. Topics in fluid mechanics included fluid statics, Eulerian and Lagrangian approaches, turbulence, flow separation, dimensional analysis, Bernoulli’s equation, control volume analysis, and 2D potential flow theory. The thermodynamics portion focused on gas properties, the first and second laws of thermodynamics, and their applications in cycles of engineering machines. The module emphasized problem-solving and applying engineering models effectively.",
+            "show_home": 0
+        },
+        {
+            "id": "EmDMP",
+            "year": 1,
+            "title": "Electromechanical Design and Manufacturing Principles",
+            "description": "This module focused on the design and manufacturing of electromechanical systems through a project-based approach. Early lectures covered the history and application of engineering drawings and manufacturing processes such as forging, casting, welding, machining, and additive manufacturing. A design task involved creating and modeling an electromechanical component, producing engineering drawings, manufacturing the design, and experimentally validating its performance. Emphasis was placed on design calculations, measurement analysis, and evaluating trade-offs in cost, performance, and complexity.",
+            "show_home": 0
+        },
+        {
+            "id": "LC",
+            "year": 1,
+            "title": "Linear Circuits",
+            "description": "This module introduced the fundamental techniques of circuit analysis, including the behavior of electrical components and the laws governing electrical circuits. Topics included the use of phasors for sinusoidal responses and Laplace transforms to analyze circuits with initial energy storage and transient behaviors. The module combined theoretical lectures with laboratory sessions to reinforce the analysis of linear circuits responding to DC, sinusoidal, and transient waveforms.",
+            "show_home": 0
+        },
+        {
+            "id": "DCS",
+            "year": 1,
+            "title": "Digital Circuits and Systems",
+            "description": "This module covered the design and implementation of digital systems, focusing on combinatorial and sequential logic, digital electronics, and computer architecture. Key topics included Boolean algebra, Karnaugh maps, flip-flops, state machines, and standard elements like adders, decoders, and multiplexers. The module also explored the operation of diodes, FETs, and BJTs in logic circuits, as well as CPU operation at the fetch/execute level. Programming fundamentals included assembly and C-language programming, alongside principles of high-level language compilation and linking.",
+            "show_home": 0
+        },
+        {
+            "id": "ESE",
+            "year": 1,
+            "title": "ELectrical Systems Engineering",
+            "description": "This module introduced the fundamental concepts of electrical engineering, emphasizing a high-level, application-based approach. Topics included the components of electrical systems, their practical and theoretical operation, and real-world applications. The module focused on system analysis using diagrams and simple calculations, with demonstrations and practical examples to illustrate key principles. It provided a foundational understanding of electrical systems, preparing students for more detailed and rigorous analysis in advanced units.",
+            "show_home": 0
+        },
+        {
+            "id": "IntoCompProg",
+            "year": 1,
+            "title": "Introduction to Computer Programming",
+            "description": "This module provided an accessible introduction to computer programming, focusing on the principles of designing, writing, and debugging programs using Python. Topics included input/output, variables, data types, conditionals, iteration, exceptions, and functions, with an emphasis on good programming practices such as design and debugging. The module aimed to translate problem statements into algorithms, preparing students for more advanced programming units and fostering confidence in applying computational methods to solve practical problems.",
+            "show_home": 1
+        },
+        {
+            "id": "EM1",
+            "year": 1,
+            "title": "Engineering Mathematics 1",
+            "description": "This module covered foundational mathematics for engineering, including algebra (vectors, complex numbers, matrices, eigenvalues, and eigenvectors), analysis (sequences, series, functions, Fourier series, and numerical methods), calculus (differentiation, integration, Taylor series, partial differentiation), and differential equations (first and second-order solutions, systems, and numerical approaches). It also introduced probability concepts, focusing on random variables and distributions. It emphasized solving mathematical problems and linking analytical and geometric concepts to engineering applications.",
+            "show_home": 1
+        },
+        {
+            "id": "DRB",
+            "year": 1,
+            "title": "Dynamics of Rigid Bodies",
+            "description": "This module covered the fundamental principles of dynamics, focusing on the motion of particles and rigid bodies. Key topics included linear motion, forces, momentum, energy, and two-dimensional motion using vector notation. Practical applications such as spacecraft orbital motion and internal combustion engine forces were explored. The module included laboratory sessions to measure moments of inertia and analyze mechanism motion, emphasizing kinematics, velocity, acceleration, and the behavior of dynamic systems.",
+            "show_home": 0
+        },
+        {
+            "id": "EMEC",
+            "year": 2,
+            "title": "Electro-Mechanical Energy Conversion",
+            "description": "This module explored linear and rotary electromechanical energy conversion systems, emphasizing the application of electromagnetic theory. Topics included voice coil actuators, DC machine output characteristics, variable speed drives, power electronic servo amplifiers, and phase-controlled rectifiers. The concept of the rotating magnetic field and asynchronous motor operation was introduced, with analyses of fixed and variable frequency excitation. The module focused on developing equivalent circuit models to study dynamic behaviors and designing simple AC-DC power conversion systems.",
+            "show_home": 0
+        },
+        {
+            "id": "EMSD",
+            "year": 2,
+            "title": "Electro-Mechanical System Design",
+            "description": "This module focused on the design, construction, and performance evaluation of electro-mechanical systems. Students applied knowledge of mechanical and electrical components to build and optimize system elements, such as gear stages, amplifiers, and signal conditioning electronics. The module emphasized the use of simulation tools like Simulink for performance prediction, alongside hands-on experimentation and critical assessment of system performance. Reporting and presenting findings were key aspects, highlighting design limitations and discrepancies between expected and measured outcomes.",
+            "show_home": 0
+        },
+        {
+            "id": "SaS",
+            "year": 2,
+            "title": "Signals and Systems",
+            "description": "This module covered the characteristics and interrelations of continuous and discrete linear signals and systems. Key topics included signal representation, convolution, spectral analysis, and system modeling. The module introduced transforms (Laplace, Z, and Fourier), pole-zero analysis, and stability evaluation in both the s-plane and z-plane. Applications included circuit analysis, digital filter design, communications, and control systems. Emphasis was placed on time-domain and frequency-domain analysis, system response, and the sampling theorem.",
+            "show_home": 1
+        },
+        {
+            "id": "ELec2",
+            "year": 2,
+            "title": "Electronics 2",
+            "description": "This module focused on intermediate-level analog electronics, covering the design and analysis of circuits using Bipolar Junction Transistors (BJTs) and MOSFETs. Topics included small-signal models, single and multi-stage amplifiers, feedback effects on gain and bandwidth, and output stages (Class A, B, and AB). The module also addressed oscillator design principles, including RC and LC oscillators such as Wien-Bridge and Colpitts circuits. Emphasis was placed on circuit design, analysis, and practical application.",
+            "show_home": 0
+        },
+        {
+            "id": "EM2",
+            "year": 2,
+            "title": "Engineering Mathematics 2",
+            "description": "This module expanded on foundational mathematics for engineering, covering vector calculus, applied statistics, and linear systems with partial differential equations. Topics included vector calculus applications in engineering, transform methods, and solving and classifying partial differential equations. The module also introduced statistical techniques such as hypothesis testing, confidence intervals, goodness of fit, correlation, and regression. Emphasis was placed on applying mathematical methods to solve engineering problems and analyzing real-world data.",
+            "show_home": 1
+        },
+        {
+            "id": "DaC",
+            "year": 2,
+            "title": "Dynamics and Control",
+            "description": "This module introduced the principles of modeling dynamic systems and designing controllers for single-input/single-output linear systems. Topics included Laplace transforms, transfer functions, and control strategies. The module also covered vibration phenomena, analyzing single-degree-of-freedom (DOF) mass-spring-damper systems under free and forced vibration, with an emphasis on resonance and force transmission. Multi-DOF systems were explored, with numerical methods applied to solve free and forced vibration problems. The module emphasized system dynamics and control methodologies in engineering contexts.",
+            "show_home": 0
+        },
+        {
+            "id": "PPP",
+            "year": 2,
+            "title": "Principles of Professional Practice",
+            "description": "This module focused on fundamental skills for effective teamwork and project management in engineering contexts. Topics included project planning, risk assessment, and quality control, emphasizing the creation of project master plans with performance tracking measures. The module highlighted the importance of diversity, stakeholder satisfaction, and innovation in modern economies. Reflective practices where developed for career development and collaborated on engineering-themed proposals, fostering both individual and group professional skills.",
+            "show_home": 0
+        },
+        {
+            "id": "Thermofluids",
+            "year": 2,
+            "title": "Thermofluids 2",
+            "description": "This module advanced the principles of thermodynamics and fluid mechanics, focusing on the operation and analysis of engineering systems such as turbines, refrigerators, steam cycles, air conditioning systems, and combustion processes. Topics included heat transfer, heat exchanger design, and fundamental fluid flows. The course emphasized applying the first and second laws of thermodynamics, analyzing engineering problems with simplifying assumptions, and understanding the limitations of various modeling approaches in fluid and energy flow analysis.",
+            "show_home": 0
+        },
+        {
+            "id": "SSC",
+            "year": 3,
+            "title": "Sensors, Signals and Control",
+            "description": "This module introduced the fundamental principles of sensors, signal processing, and control systems, with a focus on aerospace applications. Topics included sensor characterization, linear systems theory for signal processing, and the implications of sampled data systems. Core control concepts covered system performance criteria such as gain and phase margin, bandwidth, and stability. The module emphasized formulating control problems, designing systems, and addressing trade-offs in compensation schemes.",
+            "show_home": 1
+        },
+        {
+            "id": "PEMDT",
+            "year": 3,
+            "title": "Power Electronics, Machines & Drive Technologies",
+            "description": "This module explored modern power networks, focusing on energy conversion through power electronics and electric machines. Topics included power semiconductor devices, converter topologies, synchronous machines, and power system analysis. The module emphasized end-to-end system design, covering multi-phase energy flow management, stability under transient and fault conditions, and integration of electro-mechanical drive systems. Case studies highlighted design considerations and trade-offs in developing efficient, innovative, and integrated solutions for real-world applications.",
+            "show_home": 1
+        },
+        {
+            "id": "BoDS",
+            "year": 3,
+            "title": "Behaviour of Dynamic Systems",
+            "description": "This module focused on analyzing and controlling the behavior of dynamic systems, particularly the vibration of bars and beams with continuously distributed mass and stiffness. Topics included natural frequencies, mode shapes, finite element methods for vibration analysis, and stress determination. Feedback control techniques were covered, including the use of Bode and Nyquist plots, stability criteria, and Root Locus methods. The module also introduced system modeling, parameter extraction, and controller design using experimental data.",
+            "show_home": 0
+        },
+        {
+            "id": "FMHT",
+            "year": 3,
+            "title": "Fluid Mechanics and Heat Transfer",
+            "description": "This module explored the principles of heat and mass transfer, focusing on the derivation and application of the Navier-Stokes and Energy equations. Simplifications were applied to model fluid flow and heat transfer in various scenarios. Topics included analytical and numerical solutions, boundary condition applications, and turbulence modeling. The module emphasized designing and organizing numerical simulations, analyzing solution methods, and understanding the physical implications and limitations of the models in real-world applications.",
+            "show_home": 0
+        },
+        {
+            "id": "IRP",
+            "title": "Individual Research Project",
+            "description": "Design and Build of a Low-Cost Digital Theremin",
+            "details": "This project involved designing and building a compact, cost-efficient digital Theremin, a musical instrument played without touch. Utilizing a NAND Schmitt trigger oscillator circuit and a Raspberry Pi Pico microcontroller, the Theremin integrates modern digital components for enhanced functionality and reliability. Key advancements include reimagining traditional analog designs, creating a flexible mixer circuit, and enabling modes for continuous operation and MIDI piano functionality, all while significantly reducing the device’s size and production cost.",
+            "show_home": 0
+        }
+    ]
+}
