@@ -21,7 +21,7 @@ import SkillsPage from './pages/SkillsPage';
 const router = createBrowserRouter(
   createRoutesFromElements(
     <>
-    <Route path='/portfolio' element={<MainPageLayout />}>
+    <Route path='/' element={<MainPageLayout />}>
       <Route index element={<HomePage />} />
       <Route path='about' element={<AboutPage />} />
       <Route path='education' element={<EducationPage />} />
@@ -32,8 +32,9 @@ const router = createBrowserRouter(
       <Route path='*' element={<NotFoundPage />} />
     </Route>
     </>
-  )
-)
+  ), 
+  { basename: '/portfolio' } // Add the basename here
+);
 
 const App = () => {
   return (
@@ -41,4 +42,4 @@ const App = () => {
   )
 }
 
-export default App
+export default App;
