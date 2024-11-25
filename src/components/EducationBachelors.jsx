@@ -8,7 +8,7 @@ const EducationBachelors = ({isHome = true}) => {
     const [cardData, setCardData] = useState([]);
 
     useEffect(() => {
-      fetch('/bachelors_courses.json', {
+      fetch(`${process.env.PUBLIC_URL}/bachelors_courses.json`, {
         headers: {
           'Content-Type': 'application/json',
           Accept: 'application/json',
